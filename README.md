@@ -23,6 +23,9 @@ A web app for converting amounts between currencies and supported cryptocurrenci
 | Currency flags | [FlagsAPI](https://flagsapi.com/) |
 | Crypto artwork | [Logo.dev](https://www.logo.dev/) (optional) |
 
+## Live Url
+[https://currency-converter-benjamin-olle.vercel.app/]
+
 ## Requirements
 
 - Node.js 20.9 or later
