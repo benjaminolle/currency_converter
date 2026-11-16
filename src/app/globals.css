@@ -119,7 +119,7 @@ TAILWIND CSS DEFAULTS
   }
 
   h1 {
-    @apply text-(length:--heading-xl) leading-11 font-[600];
+    @apply text-(length:--heading-xl) leading-9 md:leading-11 font-[600];
   }
 
   h2 {
