@@ -24,7 +24,7 @@ A web app for converting amounts between currencies and supported cryptocurrenci
 | Crypto artwork | [Logo.dev](https://www.logo.dev/) (optional) |
 
 ## Live Url
-[https://currency-converter-benjamin-olle.vercel.app/]
+https://currency-converter-one-fawn.vercel.app/
 
 ## Requirements
 
