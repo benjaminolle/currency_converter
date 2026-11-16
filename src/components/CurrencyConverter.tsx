@@ -206,7 +206,7 @@ export default function Converter() {
                     onAmountChange={handleBaseAmountChange}
                     isRateLoading={isRateLoading}
                 />
-                <div className="absolute bg-green-500 min-w-[40px] min-h-[40px] aspect-square item-center text-center text-dark-green justify-center rounded-full p-2">
+                <div className="absolute absolute top-1/2 -translate-y-1/2 z-1 bg-green-500 min-w-[40px] min-h-[40px] aspect-square item-center text-center text-dark-green justify-center rounded-full p-2">
                     <svg className="max-md:rotate-90" width={26} viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
                         <path d="M18.2413 6.7587l3.1033 3.1034H1.4483c-0.2761 0-0.5 0.2238-0.5 0.5s0.2239 0.5 0.5 0.5h21.1034c0.2022 0 0.3845-0.1218 0.4619-0.3087s0.0346-0.4019-0.1084-0.5449l-3.9568-3.9569c-0.1953-0.1952-0.5119-0.1952-0.7071 0s-0.1953 0.5119 0 0.7071zM5.7587 17.2413 2.6554 14.1379h19.8963c0.2761 0 0.5-0.2238 0.5-0.5s-0.2239-0.5-0.5-0.5H1.4483c-0.2022 0-0.3845 0.1218-0.4619 0.3087s-0.0346 0.4019 0.1084 0.5449l3.9568 3.9569c0.1953 0.1952 0.5119 0.1952 0.7071 0s0.1953-0.5119 0-0.7071z" data-name="primary" />
                     </svg>

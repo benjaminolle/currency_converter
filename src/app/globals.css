@@ -91,7 +91,11 @@ TAILWIND CSS DEFAULTS
   }
 
   section {
-    @apply px-section-px py-section-py w-full;
+    @apply px-section-px py-section-py w-full relative;
+  }
+
+  div {
+    @apply relative;
   }
 
   .cexc-container {
